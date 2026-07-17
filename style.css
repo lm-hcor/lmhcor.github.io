@@ -273,3 +273,26 @@ nav a:hover {
     border-radius: 15px;
 
 }
+
+/* ---------- PROJECT PAGE ---------- */
+
+.project-banner {
+
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 40px;
+
+}
+
+.project-banner img {
+
+    width: 100%;
+    max-width: 850px;
+    /* Ajusta este valor a tu gusto */
+    height: auto;
+
+    border-radius: 15px;
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, .08);
+
+}
