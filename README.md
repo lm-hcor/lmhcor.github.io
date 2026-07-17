@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Luis Miguel 👋
 
 **Data Analyst | Computational Social Scientist**
 
